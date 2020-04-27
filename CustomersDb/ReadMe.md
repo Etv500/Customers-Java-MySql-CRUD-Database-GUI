@@ -12,4 +12,4 @@ To test this you can create a table in myphpadmin as follow:
 
 Also use some server to connect to MySql database such as XAMPP you just have to click start on MySql.
 
-Run the app.
+Run the app CustomersDb.jar
